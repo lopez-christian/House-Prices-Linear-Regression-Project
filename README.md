@@ -4,7 +4,7 @@
 # Using Scikit-Learn 
 
 <p align="center">
-<img width="318" alt="Screen Shot 2020-04-25 at 7 16 53 PM" src="https://user-images.githubusercontent.com/53641091/80295644-5d7b6c00-8729-11ea-8250-951c296a188f.png">
+<img width="315" alt="Screen Shot 2020-04-27 at 9 56 31 PM" src="https://user-images.githubusercontent.com/53641091/80448730-17add780-88d2-11ea-9b4e-48cb219dbf3c.png">
 </p>
 
 This project will make use of Pandas, and NumPy for the data exploration phase as well as using Matplotlib and Seaborn to form visualizations. We will then be using Scikit-Learn to model our multi-variate linear regression. We will incorporate some dummies datasets creation to deal with categorical data as well as log-transformation methodology to deal with the continuous features of the dataset. 
